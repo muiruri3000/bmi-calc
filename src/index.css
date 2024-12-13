@@ -1,0 +1,125 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.banner{
+
+
+  min-height: 27em;
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.banner > img{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  max-width: 5em;
+  width: 100%;
+
+
+
+}
+.img_container{
+
+  background:linear-gradient(90deg,white,rgba(0, 132, 205,0.5));
+  border-radius: 0 0 15px 0;
+  width: 100%;
+  min-height: 15em;
+  display: block;
+  flex-grow: 1;
+}
+
+.calcContainer{
+  box-shadow: 2px 2px 5px 1px black;
+
+  padding: 1.5em;
+  max-width: 25em;
+  width: 100%;
+  position: relative;
+  right: 15em;
+  top: 3em;
+  background-color: white;
+  max-height: 23em;
+}
+
+.calcContainer h3{
+  font-weight: 700;
+}
+
+
+.two-col-pad{
+  padding-right: 6em;
+}
+.displayDiv{
+  background-color: #345ff6;
+  padding: 1.8em;
+  margin-top: 1em;
+  border-radius: 0 4em 4em 0 ;
+  max-height: 7em;
+}
+.container{
+ 
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+.three-col-pad{
+  padding: 4em;
+}
+
+.card{
+  max-width: 25em;
+  
+}
+
+.toShow{
+  display: none;
+}
+
+.toShow.active{
+  display: block;
+}
+
+#bmi{
+  font-size: 2em;
+  
+  font-weight: 800;
+}
+#result{
+  font-weight: 700;
+  
+}
+.carded{
+  border: 1px solid red;
+  padding: auto;
+  margin: auto;
+}
+.card{
+  margin: auto;
+}
+@media (max-width:768px) {
+
+  .header{
+    margin-top:1em;
+  }
+  .calcContainer{
+
+    width: 100%;
+    top: -7em;
+    margin-inline: auto;
+    right: 0;
+    margin-inline: auto;
+    max-width: 27em;
+    
+    width: 100%;
+  }
+  .img_container{
+    min-height: 15em;
+    width: 100% !important;
+  }
+}
+
