@@ -113,7 +113,7 @@ return 'invalid bmi';
     <div className="header ">
       <div className="banner row " >
         
-        <img src="/images/logo.svg" alt="logo" />
+        <img src="public/images/logo.svg" alt="logo" />
         <div className="img_container col-sm-12 col-md-8" >
         
         </div>
