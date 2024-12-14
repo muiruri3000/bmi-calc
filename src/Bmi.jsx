@@ -5,7 +5,7 @@ const Bmi = () => {
     <div className="row mt-3 container bmi align-items-center
     mx-auto">
         <div className="col-md-6 col-sm-12">
-            <img src="/images/image-man-eating.webp" className="img-fluid" alt="" />
+            <img src="./images/image-man-eating.webp" className="img-fluid" alt="" />
         </div>
         <div className="col-md-6 col-sm-12">
         <h2 className="my-3">What your BMI result means</h2>
@@ -29,7 +29,7 @@ five days a week.
 
     <div className="col-12 col-sm-3 col-md-12 d-flex ">
       <div className="icon_container">
-        <img src="/images/icon-eating.svg" alt="eating" />
+        <img src="./images/icon-eating.svg" alt="eating" />
       </div>
     </div>
 
@@ -48,7 +48,7 @@ five days a week.
 
     <div className="col-12 col-sm-3 col-md-12 d-flex ">
       <div className="icon_container">
-        <img src="/images/icon-exercise.svg" alt="exercise" />
+        <img src="./images/icon-exercise.svg" alt="exercise" />
       </div>
     </div>
 
@@ -69,7 +69,7 @@ five days a week.
 
     <div className="col-12 col-sm-3 col-md-12 d-flex ">
       <div className="icon_container">
-        <img src="/images/icon-sleep.svg" alt="sleep" />
+        <img src="./images/icon-sleep.svg" alt="sleep" />
       </div>
     </div>
 
@@ -98,7 +98,7 @@ five days a week.
         
       <div className="card p-3 shadow text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="/images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Racer</h5>
                   </div>
                   <p>Certain health concerns may affect individuals of some Black and Asian origins...</p>
@@ -108,7 +108,7 @@ five days a week.
         <div className="col-12 col-sm-6 col-md-4 d-none d-lg-block col-lg-4 mx-auto">
                 <div className="card shadow p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3 ">
-                    <img src="/images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Race Glider</h5>
                   </div>
                   <p>Certain health concerns may affect individuals of some Black and Asian origins...</p>
@@ -117,7 +117,7 @@ five days a week.
               <div className="col-12 col-sm-6  col-md-6 col-lg-4 ">
                 <div className="card shadow  p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="/images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Race Wider</h5>
                   </div>
                   <p>Certain health concerns may affect individuals of some Black and Asian origins...</p>
@@ -126,7 +126,7 @@ five days a week.
             <div className="col-12 col-sm-6 col-lg-4 col-md-6 col-sm-4 mx-auto">
                 <div className="card shadow p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="/images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Race Minor</h5>
                   </div>
                   <p>Certain health concerns may affect individuals of some Black and Asian origins...</p>
@@ -136,7 +136,7 @@ five days a week.
               <div className="col-12 col-sm-6  col-md-6 col-lg-4">
                 <div className="card shadow  p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="/images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Race</h5>
                   </div>
                   <p>Certain health concerns may affect individuals of some Black and Asian origins...</p>
@@ -146,7 +146,7 @@ five days a week.
               <div className="col-12 col-sm-6 col-lg-4 mx-md-0">
                 <div className="card shadow p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="/images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-race.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Racee</h5>
                   </div>
                   <p>Certain health concerns may affect individuals of some Black and Asian origins...</p>
