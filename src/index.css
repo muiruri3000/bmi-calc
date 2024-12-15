@@ -67,6 +67,14 @@
   margin: 0 auto;
   /* text-align: center; */
 }
+.bmi{
+  position: relative;
+}
+.rightImage{
+  position: relative;
+  left: 55em;
+  top: -37em;
+}
 .three-col-pad{
   padding: 4em;
 }
@@ -120,6 +128,10 @@
   .img_container{
     min-height: 15em;
     width: 100% !important;
+  }
+
+  .rightImage{
+    display: none;
   }
 }
 

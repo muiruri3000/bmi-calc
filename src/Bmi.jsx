@@ -19,6 +19,10 @@ five days a week.
    </p>
    
         </div>
+
+        <div className="rightImage img-fluid">
+        <img src="./images/pattern-curved-line-left.svg" alt="left image" />
+        </div>
       
     </div>
     
