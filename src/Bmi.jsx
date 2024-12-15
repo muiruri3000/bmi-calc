@@ -109,7 +109,7 @@ five days a week.
         <div className="col-12 col-sm-6 col-md-4 d-none d-lg-block col-lg-4 mx-auto">
                 <div className="card shadow p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3 ">
-                  <img src="./images/pattern-curved-line-right.svg" className="image-fluid" alt="" />
+                  <img src="./images/pattern-curved-line-right.svg" className="image-fluid" alt="right curved line" />
                   </div>
                   
                 </div>
@@ -117,7 +117,7 @@ five days a week.
               <div className="col-12 col-sm-6  col-md-6 col-lg-4 ">
                 <div className="card shadow  p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="./images/icon-age.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-age.svg" alt="age Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Age</h5>
                   </div>
                   <p>  In aging individuals, increased body fat and muscle loss may cause BMI to underestimate 
@@ -127,7 +127,7 @@ five days a week.
             <div className="col-12 col-sm-6 col-lg-4 col-md-6 col-sm-4 mx-auto">
                 <div className="card shadow p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="./images/icon-muscle.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-muscle.svg" alt="muscle Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Muscle</h5>
                   </div>
                   <p>  BMI may misclassify muscular individuals as overweight or obese, as it doesn&apos;t 
@@ -138,7 +138,7 @@ five days a week.
               <div className="col-12 col-sm-6  col-md-6 col-lg-4">
                 <div className="card shadow  p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="./images/icon-pregnancy.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-pregnancy.svg" alt="pregnancy Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Pregnancy</h5>
                   </div>
                  <p>Expectant mothers experience weight gain due to their growing baby. Maintaining a 
