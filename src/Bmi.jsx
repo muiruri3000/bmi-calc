@@ -102,14 +102,14 @@ five days a week.
                     <h5 className="mb-0">Gender</h5>
                   </div>
                   <p>  The development and body fat composition of girls and boys vary with age. Consequently, 
-                  a child's age and gender are considered when evaluating their BMI.</p>
+                  a child&apos;s age and gender are considered when evaluating their BMI.</p>
                 </div>
         </div> 
 
         <div className="col-12 col-sm-6 col-md-4 d-none d-lg-block col-lg-4 mx-auto">
                 <div className="card shadow p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3 ">
-                  <img src="./images/pattern-curved-line-left.svg" alt="" />
+                  <img src="./images/pattern-curved-line-right.svg" className="image-fluid" alt="" />
                   </div>
                   
                 </div>
@@ -117,7 +117,7 @@ five days a week.
               <div className="col-12 col-sm-6  col-md-6 col-lg-4 ">
                 <div className="card shadow  p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="../public/images/icon-age.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-age.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Age</h5>
                   </div>
                   <p>  In aging individuals, increased body fat and muscle loss may cause BMI to underestimate 
@@ -130,7 +130,7 @@ five days a week.
                     <img src="./images/icon-muscle.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Muscle</h5>
                   </div>
-                  <p>  BMI may misclassify muscular individuals as overweight or obese, as it doesn't 
+                  <p>  BMI may misclassify muscular individuals as overweight or obese, as it doesn&apos;t 
                   differentiate muscle from fat.</p>
                 </div>
               </div>
@@ -138,7 +138,7 @@ five days a week.
               <div className="col-12 col-sm-6  col-md-6 col-lg-4">
                 <div className="card shadow  p-3 text-center">
                   <div className="d-flex align-items-center justify-content-center mb-3">
-                    <img src="../public/images/icon-pregnancy.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
+                    <img src="./images/icon-pregnancy.svg" alt="Race Icon" className="img-fluid icon-image me-2"/>
                     <h5 className="mb-0">Pregnancy</h5>
                   </div>
                  <p>Expectant mothers experience weight gain due to their growing baby. Maintaining a 
